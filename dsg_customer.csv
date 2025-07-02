@@ -1,0 +1,101 @@
+Customer_ID,Customer_Name,Age,Gender,Membership_Status
+C0001,Drew Garcia,51,Male,Standard
+C0002,Morgan Johnson,64,Female,Elite
+C0003,Riley Wilson,51,Female,Standard
+C0004,Riley Smith,62,Male,Premium
+C0005,Riley Garcia,42,Female,Premium
+C0006,Taylor Martinez,61,Non-Binary,Premium
+C0007,Alex Wilson,33,Non-Binary,Premium
+C0008,Jamie Johnson,36,Male,Standard
+C0009,Taylor Miller,26,Male,Elite
+C0010,Drew Smith,24,Male,Standard
+C0011,Taylor Davis,36,Prefer Not to Say,Standard
+C0012,Quinn Martinez,33,Female,Standard
+C0013,Parker Lopez,31,Prefer Not to Say,Standard
+C0014,Morgan Garcia,41,Female,Premium
+C0015,Alex Davis,59,Male,Standard
+C0016,Drew Lopez,34,Non-Binary,Standard
+C0017,Alex Brown,41,Non-Binary,Standard
+C0018,Jordan Lopez,60,Male,Premium
+C0019,Casey Johnson,51,Prefer Not to Say,Standard
+C0020,Casey Lee,23,Non-Binary,Elite
+C0021,Casey Miller,29,Female,Standard
+C0022,Jordan Smith,26,Male,Premium
+C0023,Alex Davis,32,Prefer Not to Say,Elite
+C0024,Alex Smith,20,Prefer Not to Say,Standard
+C0025,Parker Garcia,58,Prefer Not to Say,Standard
+C0026,Quinn Lopez,50,Male,Standard
+C0027,Riley Lopez,18,Non-Binary,Standard
+C0028,Riley Smith,30,Prefer Not to Say,Standard
+C0029,Riley Brown,28,Female,Standard
+C0030,Alex Lee,61,Male,Premium
+C0031,Jamie Wilson,37,Male,Premium
+C0032,Alex Martinez,44,Female,Standard
+C0033,Parker Lopez,39,Non-Binary,Standard
+C0034,Drew Smith,62,Prefer Not to Say,Standard
+C0035,Quinn Wilson,21,Prefer Not to Say,Standard
+C0036,Jordan Brown,42,Prefer Not to Say,Standard
+C0037,Alex Wilson,64,Prefer Not to Say,Standard
+C0038,Morgan Lopez,55,Male,Standard
+C0039,Jamie Miller,52,Prefer Not to Say,Standard
+C0040,Parker Davis,34,Female,Standard
+C0041,Casey Wilson,23,Non-Binary,Premium
+C0042,Drew Smith,25,Female,Premium
+C0043,Taylor Johnson,60,Male,Premium
+C0044,Riley Miller,42,Male,Premium
+C0045,Alex Johnson,50,Non-Binary,Premium
+C0046,Casey Garcia,44,Non-Binary,Premium
+C0047,Casey Martinez,27,Male,Premium
+C0048,Morgan Wilson,31,Female,Standard
+C0049,Jamie Wilson,62,Non-Binary,Premium
+C0050,Riley Smith,27,Female,Premium
+C0051,Riley Garcia,64,Female,Standard
+C0052,Drew Miller,61,Female,Premium
+C0053,Drew Smith,22,Female,Standard
+C0054,Parker Martinez,49,Prefer Not to Say,Premium
+C0055,Alex Lopez,31,Non-Binary,Premium
+C0056,Jordan Brown,63,Prefer Not to Say,Premium
+C0057,Casey Miller,49,Prefer Not to Say,Premium
+C0058,Morgan Martinez,42,Female,Standard
+C0059,Riley Lopez,44,Non-Binary,Standard
+C0060,Jamie Lopez,52,Non-Binary,Standard
+C0061,Casey Lopez,64,Male,Standard
+C0062,Alex Wilson,42,Female,Premium
+C0063,Jordan Wilson,49,Prefer Not to Say,Standard
+C0064,Jordan Wilson,25,Male,Standard
+C0065,Taylor Lopez,51,Female,Standard
+C0066,Taylor Wilson,19,Male,Elite
+C0067,Jordan Garcia,20,Prefer Not to Say,Premium
+C0068,Morgan Miller,20,Male,Standard
+C0069,Taylor Davis,63,Non-Binary,Standard
+C0070,Drew Brown,38,Female,Standard
+C0071,Parker Smith,46,Male,Standard
+C0072,Parker Wilson,30,Prefer Not to Say,Elite
+C0073,Alex Johnson,40,Non-Binary,Premium
+C0074,Casey Garcia,42,Female,Elite
+C0075,Jamie Davis,28,Non-Binary,Standard
+C0076,Parker Lee,31,Male,Elite
+C0077,Riley Miller,27,Male,Elite
+C0078,Riley Johnson,19,Prefer Not to Say,Standard
+C0079,Drew Martinez,45,Non-Binary,Standard
+C0080,Parker Lee,49,Prefer Not to Say,Standard
+C0081,Parker Brown,23,Prefer Not to Say,Standard
+C0082,Riley Martinez,36,Non-Binary,Premium
+C0083,Casey Garcia,55,Male,Premium
+C0084,Jamie Martinez,30,Non-Binary,Standard
+C0085,Riley Johnson,21,Male,Standard
+C0086,Jamie Miller,56,Non-Binary,Standard
+C0087,Morgan Johnson,36,Prefer Not to Say,Standard
+C0088,Taylor Johnson,62,Prefer Not to Say,Standard
+C0089,Jordan Johnson,48,Male,Standard
+C0090,Drew Davis,42,Prefer Not to Say,Premium
+C0091,Alex Wilson,53,Non-Binary,Premium
+C0092,Jamie Lee,46,Prefer Not to Say,Standard
+C0093,Parker Lopez,51,Female,Standard
+C0094,Casey Davis,35,Prefer Not to Say,Premium
+C0095,Riley Martinez,49,Prefer Not to Say,Standard
+C0096,Morgan Lee,20,Male,Premium
+C0097,Morgan Davis,27,Female,Standard
+C0098,Quinn Brown,41,Non-Binary,Premium
+C0099,Taylor Brown,53,Non-Binary,Standard
+C0100,Jordan Smith,62,Female,Standard

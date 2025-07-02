@@ -1,0 +1,13 @@
+Product_ID,Product_Name,Category,Units_On_Hand,Restocked_Units,Out_of_Stock
+P1000,Running Shorts,Apparel,14,62,Yes
+P1001,Compression Shirt,Apparel,33,96,Yes
+P1002,Sports Bra,Apparel,101,75,No
+P1003,Windbreaker,Apparel,41,3,No
+P1004,Running Shoes,Footwear,21,28,No
+P1005,Cleats,Footwear,68,97,Yes
+P1006,Hiking Boots,Footwear,119,71,Yes
+P1007,Sandals,Footwear,100,65,Yes
+P1008,Yoga Mat,Equipment,119,52,No
+P1009,Dumbbells,Equipment,116,53,No
+P1010,Baseball Bat,Equipment,21,93,Yes
+P1011,Basketball,Equipment,44,6,No
